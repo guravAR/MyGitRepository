@@ -1,5 +1,16 @@
-class HelloWorls{
-main(){
-Sysout("HelloWorld..");
+class HelloWorld{
+
+
+
+              mymethod(){
+
+
+             System.out.println("HelloWorld..welcome to Git!!");
 }
+
+          public static void main(String args[]){
+
+                HelloWorld obj= new Helloworld();
+              obj.mymethod
+    }
 }
