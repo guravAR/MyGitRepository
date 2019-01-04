@@ -2,7 +2,12 @@ class HelloWorld{
 
 
 
+
          static void mymethod(){
+
+              mymethod(){
+
+
 
 
              System.out.println("HelloWorld..welcome to Git!!");
@@ -11,5 +16,10 @@ class HelloWorld{
           public static void main(String args[]){
 
               HelloWorld.mymethod
+
+                HelloWorld obj= new Helloworld();
+              obj.mymethod
+obj.mymethod1
+
     }
 }
