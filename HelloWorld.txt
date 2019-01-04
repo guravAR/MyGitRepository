@@ -10,7 +10,6 @@ class HelloWorld{
 
           public static void main(String args[]){
 
-                HelloWorld obj= new Helloworld();
-              obj.mymethod
+              HelloWorld.mymethod
     }
 }
